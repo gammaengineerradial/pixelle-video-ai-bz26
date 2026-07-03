@@ -1,4 +1,4 @@
-# 
+# Top Pixelle-Video plugins. Com indexação de dados e integração de API — otimizado para máximo desempenho e eficiência.
 
 
 
